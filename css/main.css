@@ -1164,7 +1164,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4fe58c;
+  background: #62579e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2403,7 +2403,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("/huang/source/images/bg.jpeg");
+  background-image: url("../images/univ.jpeg");
   height: 100%;
   width: 100%;
   background-repeat: repeat-x;
